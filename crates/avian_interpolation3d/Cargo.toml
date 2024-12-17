@@ -34,7 +34,7 @@ bench = false
 serde = { version = "1.0.210", optional = true}
 
 [dependencies.avian3d]
-git = "https://github.com/Jondolf/avian"
+version = "0.1"
 default-features = false
 features = [
     "3d",
