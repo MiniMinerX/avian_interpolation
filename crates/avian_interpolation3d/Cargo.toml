@@ -46,4 +46,4 @@ default-features = false
 
 [dev-dependencies]
 bevy = { version = "0.14.2", features = ["dynamic_linking"] }
-avian3d = { git = "https://github.com/Jondolf/avian" }
+avian3d = { version = "0.1" }
